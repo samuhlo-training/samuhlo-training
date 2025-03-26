@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is a secondary account from <a href="">Samu Lo </a>
 
-<!--
-**samuhlo-training/samuhlo-training** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="" src="https://github.com/samuhlo-training/samuhlo-training/blob/main/banner2.jpg"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+###
+
+<h2 align="center"> Training account</h2>
+
+###
+
+💻 Here i will upload some training projects, course projects and some trash ...
+
+
+🌱 If somebody can do it, i can learn it.
+
+###
+
