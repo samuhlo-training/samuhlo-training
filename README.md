@@ -1,4 +1,4 @@
-# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is a secondary account from <a href="">Samu Lo </a>
+# Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> This is a secondary account from <a href="https://github.com/samuhlo">Samu Lo </a>
 
 ###
 
