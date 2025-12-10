@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="" src="https://github.com/samuhlo-training/samuhlo-training/blob/main/banner3.webp"  />
+  <img height="" src="https://github.com/samuhlo-training/samuhlo-training/blob/main/banner4.webp"  />
 </div>
 
 
