@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/samuhlo-training/samuhlo-training/blob/main/banner4.webp" width="100%" />
+  <img src="https://github.com/samuhlo-training/samuhlo-training/blob/main/banner5.webp" width="100%" />
   
   <br /><br />
 
